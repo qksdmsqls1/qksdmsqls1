@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Hwang eunbin 👋
 
 I'm **Hwang Eunbin**, a frontend developer growing with React and UI design.
 
